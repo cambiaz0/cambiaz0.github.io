@@ -74,6 +74,10 @@
     padding-right: 3rem;
 }
 
+.card-testimony span{
+    font-weight: bold;
+}
+
 .testimony-image{
     width: 60px;
     height: 60px;
