@@ -56,7 +56,8 @@
 }
 
 .img-contact{
-    width: 400px;
+    width: 500px;
+    padding-left: 18rem;
 }
 
 @media screen and (max-width: 880px){
